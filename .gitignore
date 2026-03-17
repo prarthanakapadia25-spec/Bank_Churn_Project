@@ -1,10 +1,13 @@
-# Ignore virtual environment
+# Virtual environment
 venv/
 
-# Ignore Python cache
+# Python cache
 __pycache__/
 *.pyc
+
+# Streamlit cache
+.cache/
+
+# OS files
 .DS_Store
-# Ignore IDE/editor settings
-.vscode/
-*.idea
+Thumbs.db
