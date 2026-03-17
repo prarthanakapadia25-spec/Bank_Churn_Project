@@ -1,0 +1,13 @@
+.stMetricValue{
+font-size:30px;
+color:#00b4d8;
+}
+
+.stPlotlyChart{
+animation: fadein 1s ease-in;
+}
+
+@keyframes fadein{
+0%{opacity:0}
+100%{opacity:1}
+}
